@@ -1,4 +1,4 @@
-"""Cho-Han modified by Elvia Gisella Adair (EGA)
+"""Cho-Han modified by Elvia Gisella Adair (EGA) Nov 01 2025
 The traditional Japanese dice game of even-odd.
 View this code athttps://nostarch.com/big-book-small-python-projects
 Tags: short, beginner, game"""
@@ -88,3 +88,10 @@ while True:  # Main game loop.
         print('You have run out of money!')
         print('Thanks for playing!')
         sys.exit()
+
+"""REFERENCES:
+1. GitHub Docs. (n.d.). Git basics: Staging, committing, and pushing code. Retrieved from https://docs.github.com/en/get-started/using-git/about-git
+
+2. Visual Paradigm Online. (n.d.). Flowchart Tool. Retrieved from https://online.visual-paradigm.com/diagrams/solutions/flowchart/
+
+3. http://w3schools.com/python/python_dictionaries.asp"""
